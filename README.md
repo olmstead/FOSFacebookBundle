@@ -12,6 +12,7 @@ Note that logging in a user requires multiple steps:
   1. the user must be logged into Facebook
   2. the user must connect his Facebook account to your site
   3. once the user has done 1. and 2. you must trigger the login
+  4. 
 
 For step 1. and 2. there are two options:
 
